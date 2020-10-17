@@ -22,10 +22,14 @@ Once you have the Flutter SDK setup and have enabled Web support, you will need 
 
 Next, to run it in dev mode run `flutter run`, and select the respective browser you want to launch from the provided list. In our case, we chose `1` for Chrome.
 
-<img src="https://github.com/dialoguewise/dialoguewise-demo/blob/master/screenshots/logo.PNG?raw=true">
+<img src="https://github.com/dialoguewise/dialoguewise-demo-flutter-web/blob/master/screenshots/launch.PNG?raw=true" height="200"> <br/><br/>
 
+
+  
 Once you've chosen the required browser, your app should be launched.
+  
+<br/>
 
-<img src="https://github.com/dialoguewise/dialoguewise-demo/blob/master/screenshots/logo.PNG?raw=true">
+<img src="https://github.com/dialoguewise/dialoguewise-demo-flutter-web/blob/master/screenshots/flutter-web.png?raw=true" height="400"> <br/><br/>
 
 To build it run `flutter build web` and the files to be hosted will be generated inside the `build/web` folder. You can then copy these files to host them on any web server.
